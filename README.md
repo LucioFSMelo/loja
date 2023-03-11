@@ -1,0 +1,2 @@
+# loja
+Python e Django
